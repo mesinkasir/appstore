@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-
-import { rhythm, scale } from "../utils/typography"
+import "../components/kasir.css"
+import { rhythm } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -9,13 +9,7 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
-      <h1
-        style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
-          marginTop: 0,
-        }}
-      >
+      <h1><strong>
         <Link
           style={{
             boxShadow: `none`,
@@ -25,17 +19,12 @@ const Layout = ({ location, title, children }) => {
           to={`/`}
         >
           {title}
-        </Link>
+        </Link></strong>
       </h1>
     )
   } else {
     header = (
-      <h3
-        style={{
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-        }}
-      >
+      <h3>
         <Link
           style={{
             boxShadow: `none`,
@@ -47,6 +36,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h3>
+
     )
   }
   return (
@@ -54,17 +44,32 @@ const Layout = ({ location, title, children }) => {
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(24),
+        maxWidth: rhythm(54),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
+<ul class="nav bg-light shadow justify-content-center fixed-top">
+  <li class="nav-item">
+  <Link class="nav-link" to="/">Home</Link>
+  </li>
+  <li class="nav-item">
+  <Link class="nav-link" to="/applikasi">App</Link>
+  </li>
+  <li class="nav-item">
+    <Link class="nav-link" to="/pos">POS</Link>
+  </li>
+  <li class="nav-item">
+    <Link class="nav-link" to="/blog">Blog</Link>
+  </li>
+  <li class="nav-item">
+  <Link class="nav-link" to="/contact">Contact</Link>
+  </li>
+</ul>
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
+      <footer class="text-center"><hr/><small>
+        © app.store, Built with <a href="https://www.gatsbyjs.org" target="blank">Gatsby</a>
+        </small></footer>
     </div>
   )
 }
