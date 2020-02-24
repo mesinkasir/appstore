@@ -9,7 +9,7 @@ const Applikasi = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Applikasi restoran cafe kuliner" />
+      <SEO title="Daftar Applikasi Kasir Toko Restoran" />
       <Bio />
       <h1><strong><a title="daftar aplikasi" href="/applikasi">APPLIKASI</a></strong></h1>
 <p>Pilih aplikasi berdasarkan bidang usaha mu.</p>
