@@ -3,7 +3,7 @@ module.exports = {
     title: `Aplikasi Kasir Toko Resto`,
     author: `aplikasi online`,
     description: `Aplikasi kasir,aplikasi toko,aplikasi restoran,aplikasi invoice online all in one lengkap untuk bisnis dan usaha mu.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://axcora.com/`,
     social: {
       twitter: `hockeycorp`,
     },
