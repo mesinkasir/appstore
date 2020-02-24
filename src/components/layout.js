@@ -68,7 +68,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer class="text-center"><hr/><small>
-        © app.store, Built with <a href="https://www.gatsbyjs.org" target="blank">Gatsby</a>
+        © <a href="https://www.axcora.com">www.axcora.com</a>, Built with <a href="https://www.gatsbyjs.org" target="blank">Gatsby</a>
         </small></footer>
     </div>
   )
