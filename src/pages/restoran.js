@@ -9,7 +9,7 @@ const Restoran = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Daftar list Aplikasi toko kasir resto bisnis dan usaha" />
+      <SEO title="Aplikasi restoran cafe rumah makan warkop" />
       <Bio />
       <h1><strong><a title="daftar aplikasi" href="/restoran">RESTORAN</a></strong></h1>
       <p>Untuk usaha kuliner restoran cafe rumah makan street food fastfood warkop angkringan depot drink shop coffe shop toko oleh oleh.</p>
