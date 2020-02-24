@@ -9,7 +9,7 @@ const Toko = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Applikasi restoran cafe kuliner" />
+      <SEO title="Applikasi toko,aplikasi kasir , online" />
       <Bio />
       <h1><strong><a title="daftar aplikasi" href="/applikasi">APPLIKASI</a></strong></h1>
 <p>Special untuk usaha retail minimarket supermarket shop store toko outlet barber shop salon spa bengkel penjualan produk dan jasa.</p>
