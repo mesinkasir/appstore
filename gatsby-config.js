@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Aplikasi Kasir Toko Resto`,
+    title: `Aplikasi Online`,
     author: `aplikasi online`,
     description: `Aplikasi kasir,aplikasi toko,aplikasi restoran,aplikasi invoice online all in one lengkap untuk bisnis dan usaha mu.`,
     siteUrl: `https://www.axcora.com/`,
