@@ -9,7 +9,7 @@ const Index = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Aplikasi store App" />
+      <SEO title="Aplikasi Kasir Toko Resto" />
       <Bio />
       <div class="row">
       <div class="col-12 col-md-2"></div>
