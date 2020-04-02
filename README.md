@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's website for [axcora](https://www.axcora.com/)
+  Gatsby's website for axcora technology
 </h1>
 
 ### Whats is axcorapos ??
