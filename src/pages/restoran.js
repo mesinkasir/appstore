@@ -37,12 +37,67 @@ const Restoran = ({ data, location }) => {
 <Link class="button btn-block" to="/restoonline">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Resto-X</a></strong></h3>
+<img class="img-fluid" alt="aplikasi android restoran" src="/img/Screenshot_2020-05-31 RESTO-X WEB APPS(1).png"/> 
+<p class="text-left">Terbaik untuk restoran applikasi online dengan kemampuan nya dalam melengkapi kebutuhan untuk restoran cafe dan rumah makan, detail laporan dan fitur yang lengkap resto-x adalah solusi terbaik untuk kuliner app.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/restoboost">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Dexopos Resto</a></strong></h3>
+<img class="img-fluid" alt="aplikasi android restoran" src="/img/dexopos restoran applikasi.png"/> 
+<p class="text-left">Modern web app dengan develope menggunakan laravel php artisan semakin stabil dan powerfull untuk dipergunakan dalam kebutuhan restoran rumah makan cafe dengan desain modern.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/restoboost">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Booster resto</a></strong></h3>
 <img class="img-fluid" alt="aplikasi android restoran" src="/img/mesinkasirrrestorancafeonline.png"/> 
 <p class="text-left">Kebutuhan terbaik dengan simple system dan kompleks dalam penggunaan nya, support dengan online based app memudahkan dalam mobilitas akses via smartphoenn dan tablet hingga mesin kasir mu, offline desktop untuk singgle standalone.
 <br/><small>OS : Android , Iphone , Windows
   <br/>
   System : Offline / Online Web Based
+</small>
+</p>
+<Link class="button btn-block" to="/restoboost">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Fun Resto</a></strong></h3>
+<img class="img-fluid" alt="aplikasi android restoran" src="/img/restaurant application (3).png"/> 
+<p class="text-left">Special untuk penjualan kasir dengan cepat menggunakan fun resto web apps , memudahkan dalam setiap kebutuhan penjualan kasir lengkap dengan list penjualan pada laporan nya.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/restoboost">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Z-Resto</a></strong></h3>
+<img class="img-fluid" alt="aplikasi android restoran" src="/img/restaurant application (3).png"/> 
+<p class="text-left">Fokus utama dalam penjualan kasir sangat simple dan mudah digunakan cocok untuk usaha kuliner skala kecil dalam melakukan penjualan kasir dengan cepat via apps ini.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/restoboost">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Sip Resto</a></strong></h3>
+<img class="img-fluid" alt="aplikasi android restoran" src="/img/apprestaurantonline.png"/> 
+<p class="text-left">Simple dan cepat dilengkapi dengan pencatatan meja pelanggan memudahkan dalam kebutuhan untuk bertransaksi dengan cepat dan rangkuman lapora detail tersedia via Sip resto apps.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
 </small>
 </p>
 <Link class="button btn-block" to="/restoboost">More info</Link>
