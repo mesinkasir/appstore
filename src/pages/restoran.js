@@ -82,7 +82,7 @@ const Restoran = ({ data, location }) => {
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Z-Resto</a></strong></h3>
-<img class="img-fluid" alt="aplikasi android restoran" src="/img/restaurant application (3).png"/> 
+<img class="img-fluid" alt="aplikasi android restoran" src="/img/aplikasi restoran online mobile pos web apps (1).jpg"/> 
 <p class="text-left">Fokus utama dalam penjualan kasir sangat simple dan mudah digunakan cocok untuk usaha kuliner skala kecil dalam melakukan penjualan kasir dengan cepat via apps ini.
 <br/><small>OS : Android , Iphone , Windows
   <br/>
