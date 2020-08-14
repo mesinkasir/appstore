@@ -48,6 +48,95 @@ const Toko = ({ data, location }) => {
 <Link class="button btn-block" to="/multipos">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">POS-X Apps</a></strong></h3>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/aplikasi toko kasir online pos-x web app (10).png"/>
+<p class="text-left">Terbaik dan lengkap pada kategori web apps technology, pos-x sangat lengkap akan fitur nya dan support touchscreen plus barcode system .
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">Larapos Apps</a></strong></h3>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/aplikasi toko mesin kasir online laravel point of sale cashier apps (4).png"/>
+<p class="text-left">Aplikasi dengan kebutuhan untuk penjualan grosir dan eceran plus bonus website memudahkan dalam setiap aktivitas penjualan grosir dan eceran.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">Codepos</a></strong></h3>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/mesin kasir online.png"/>
+<p class="text-left">Super lengkap untuk kebutuhan penjualan kasir include inventori stok management dan penjualan kasir bergambar serta laporan laporan detail nya.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">Dexopos</a></strong></h3>
+<img class="img-fluid shadow" alt="software toko shop online dexopos" src="/img/aplikasi toko kasir online laravel pos simple web app (1).png"/>
+<p class="text-left">Modern web app dengan fitur penjualan bergambar dan kemudahan dalam lengkap nya laporan detail per periode transaksi untuk digunakan.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi toko kasir">DX-Retail</a></strong></h3>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/online pos application.png"/>
+<p class="text-left">Modern apps dengan pembagian divisi stok inventori apps, kasir apps, dan admin apps, memudahkan pada masing masing divisi untuk melakukan pekerjaan dalam satu based aplikasi.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web App
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi toko kasir laravel pos">Laravel POS</a></strong></h3>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/aplikasi toko kasir online laravel pos simple web app (1).png"/>
+<p class="text-left">Aplikasi modern dan simple fokus untuk penjualan kasir memudahkan dalam kebutuhan transaksi kasir dan pencatatan list penjualan.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Apps.
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi toko software toko online">Z-POS Web Apps</a></strong></h3>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/Screenshot_2020-05-28 Z-POS Web App POS(9).png"/>
+<p class="text-left">Complete untuk point of sale dengan dekstop apps maupun mobile pos apps memudahkan dalam setiap kebutuhan untuk bertransaksi maupun cek pembukuan secara online.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web App
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+<div class="col-12 col-md-4 p-3 p-md-3">
+<h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">V-POS Apps</a></strong></h3>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/wepos updates.png"/>
+<p class="text-left">Aplikasi kasir pos dan online shop toko online website modern integrasi terbaik dari inventori stok hingga laporan laporan detail.
+<br/><small>OS : Android , Iphone , Windows
+  <br/>
+  System : Online Web Based
+</small>
+</p>
+<Link class="button btn-block" to="/tokoonline">More info</Link>
+</div>
+
+<div class="col-12 col-md-4 p-3 p-md-3">
   <h3><strong><a href="/applikasi" title="aplikasi kasir program kasir">Axcorapos</a></strong></h3>
 <img class="img-fluid shadow" alt="aplikasi kasir" src="/img/software kasir,program kasir,toko minimarket dan apotik expired date (10).jpg"/> 
 <p class="text-left">Simple kompleks dan lengkap dengan fitur terbaik expired date memudahkan cek dalam kebutuhan  inventori stok yang mendekati expire date.
