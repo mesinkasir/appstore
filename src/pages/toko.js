@@ -82,7 +82,7 @@ const Toko = ({ data, location }) => {
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">Dexopos</a></strong></h3>
-<img class="img-fluid shadow" alt="software toko shop online dexopos" src="/img/aplikasi toko kasir online laravel pos simple web app (1).png"/>
+<img class="img-fluid shadow" alt="software toko shop online dexopos" src="/img/aplikasi kasir toko penjualan online terbaru keren (1).png"/>
 <p class="text-left">Modern web app dengan fitur penjualan bergambar dan kemudahan dalam lengkap nya laporan detail per periode transaksi untuk digunakan.
 <br/><small>OS : Android , Iphone , Windows
   <br/>
@@ -126,7 +126,7 @@ const Toko = ({ data, location }) => {
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">V-POS Apps</a></strong></h3>
-<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/wepos updates.png"/>
+<img class="img-fluid shadow" alt="software kasir online toko shop" src="/img/7pos.png"/>
 <p class="text-left">Aplikasi kasir pos dan online shop toko online website modern integrasi terbaik dari inventori stok hingga laporan laporan detail.
 <br/><small>OS : Android , Iphone , Windows
   <br/>
