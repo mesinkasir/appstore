@@ -113,28 +113,7 @@ const Toko = ({ data, location }) => {
 </p>
 <Link class="button btn-block" to="/cool">More info</Link>
 </div>
-<div class="col-12 col-md-4 p-3 p-md-3">
-<h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">HC Access</a></strong></h3>
-<img class="img-fluid shadow" alt="software kasir" src="/img/1.software kasir gratis,program kasir gratis,aplikasi kasir gratis - login.png"/>
-<p class="text-left">Persembahan untuk UKM indonesia sebuah program aplikasi kasir gratis 100% dengan fitur lengkap dalam kebutuhan pencatatan pembukuan hingga laporan.
-<br/><small>OS : Windows
-  <br/>
-  System : Offline
-</small>
-</p>
-<Link class="button btn-block" to="/aplikasitoko-kasir-gratis">Free Download</Link>
-</div>
-<div class="col-12 col-md-4 p-3 p-md-3">
-<h3><strong><a href="/applikasi" title="aplikasi kasir online">Clean POS</a></strong></h3>
-<img class="img-fluid shadow" alt="program kasir" src="/img/4. wholesale pos.png"/> 
-<p class="text-left">Open source point of sale full coding yang bisa kamu free download gratis tanpa syarat dan modifikasi untuk kebutuhan mu tersedia fitur grosir dan eceran plus laporan yang lengkap untuk digunakan menunjang usaha.
-<br/><small>OS : Android , Iphone , Windows
-  <br/>
-  System : Offline / Online Web Based
-</small>
-</p>
-<Link class="button btn-block" to="/source-code-pos-download">Free Download</Link>
-</div>
+
 <div class="col-12 col-md-12"><br/><br/><Link class="float-left" to="/restoran">&larr; Resto</Link> <Link class="float-right" to="/office">Office &rarr;</Link></div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
   <p><strong>Mobile technology</strong></p>
