@@ -34,8 +34,7 @@ Fitur : master database user , supplier, membercard , meja , group categori menu
 </p>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
-<a class="button" href="https://mesinkasir.github.io/e-catalog/RESTO-X.pdf" target="blank">Download</a> 
-    <a class="button" href="https://www.youtube.com/playlist?list=PLQDm6k9_HvYN5uzqK0AkwELTt3HkCQ8il" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
+<a class="button" href="https://mesinkasir.github.io/e-catalog/RESTO-X.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/playlist?list=PLQDm6k9_HvYN5uzqK0AkwELTt3HkCQ8il" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
 <br/><br/><Link class="float-left" to="/restoonline">&larr; Online Resto</Link> <Link class="float-right" to="/dxresto">Dexopos Resto &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
