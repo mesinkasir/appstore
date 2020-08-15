@@ -27,6 +27,8 @@ Solusi terbaik dalam kebutuhan online clouds web app untuk kebutuhan usaha resto
 Dengan installasi via clouds online memudahkan dalam resto-x web apps ini diakses via berbagai perangkat hardware mulai dari smartphone handphone android iphone hingga mesin kasir windows dalam operasional koneksi dengan web apps ini. dengan installasi via clouds maka tidak perlu lagi melakukan installasi pada perangkat anda yang menambah beban pada device yang digunakan, cukup akses via web apps secara langsung dan lakukan login kini anda sudah siap dalam menggunakan resto-x web apps ini,web app modern memberikan kebebasan akan hal akses tanpa batas dengan staf karyawan untuk melakukan pekerjaan dengan 
 <a title="Aplikasi Restoran" href="/restox">aplikasi restoran</a> ini,  Tidak lagi memikirikan minimum spesifikasi device dan OS yang digunakan dengan resto web app memudahkan segala kebutuhan dalam bekerja secara cepat via mobile restoran apps . saat nya update dan upgrade pembukuan digital restoran cafe rumah makan dengan menggunakan resto-x web apps ini. 
 </p>
+    </div>
+    <div class="col-12 col-md-12 p-3 p-md-5">
 <p>
 Fitur : master database user , supplier, membercard , meja , group categori menu makanan minuman, menu saji makanan minuman, pembelian , pencatatan kas keluar, penjualan kasir dengan metode full touchscreen hingga support dengan barcode jika dibutuhkan, print out percetakan bill dan struk kasir , rangkuman laporan laporan detil seperti pendapatan omset income profit , penjualan , dan berbagai laporan lain nya.
 </p>
