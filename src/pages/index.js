@@ -39,11 +39,7 @@ const Index = ({ data, location }) => {
 <div class="row text-center">
 <div class="col-12 col-md-12 p-3 p-md-3">
 <p>Dukungan dan support</p>
-  <a href="https://www.apachefriends.org/" target="blank"><img alt="web server" class="img-fluid" width="120" src="/img/xampp.jpg"/></a>
-  <a href="https://www.java.com/" target="blank"><img alt="java" class="img-fluid" width="80" src="/img/java.png"/></a>
-  <a href="https://www.android.com" target="blank"><img alt="android iphone windows" class="img-fluid" width="120" src="/img/android.jpg"/></a>
-  <img alt="hewllet packard" class="img-fluid" width="80" src="/img/HP-logo.png"/>
-  <img alt="Asus" class="img-fluid" width="120" src="/img/Asus-Logo.png"/>
+  <img alt="Asus" class="img-fluid" width="100%" src="/img/support mesin kasir online apps website modern.png"/>
   </div>  </div>
 <div class="col-12 col-md-12 p-3 p-md-3">
   <p>We Hapy Client</p>
