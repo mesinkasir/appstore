@@ -37,7 +37,7 @@ const Index = ({ data, location }) => {
 </div>
 </div>
 <div class="row text-center">
-<div class="col-12 col-md-4 p-3 p-md-3">
+<div class="col-12 col-md-12 p-3 p-md-3">
 <p>Dukungan dan support</p>
   <a href="https://www.apachefriends.org/" target="blank"><img alt="web server" class="img-fluid" width="120" src="/img/xampp.jpg"/></a>
   <a href="https://www.java.com/" target="blank"><img alt="java" class="img-fluid" width="80" src="/img/java.png"/></a>
@@ -45,7 +45,7 @@ const Index = ({ data, location }) => {
   <img alt="hewllet packard" class="img-fluid" width="80" src="/img/HP-logo.png"/>
   <img alt="Asus" class="img-fluid" width="120" src="/img/Asus-Logo.png"/>
   </div>  </div>
-<div class="col-12 col-md-8 p-3 p-md-3">
+<div class="col-12 col-md-12 p-3 p-md-3">
   <p>We Hapy Client</p>
 <img alt="Pelanggan" class="img-fluid" src="/img/Client.jpg"/>
 </div>
