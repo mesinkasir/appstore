@@ -31,7 +31,7 @@ Aplikasi restoran modern dengan develope menggunakan <a href="https://laravel.co
     </div>
     <div class="col-12 col-md-12 p-3 p-md-5">
  <img class="img-fluid" alt="mobile waiters app" src="/img/dxresto pos web app.png"/>
- <p>Support dengan waiters mobile apps, memudahkan untuk waiters mencatat pesanan pelanggan via smartphone secara langsung atau pun via tablet dalam penggunaan nya, dengan <a href="/dxresto">mobile waiters apps</a> semakin mempercepat untuk mencatat pemesanan pelanggan.
+ <p>Support dengan waiters mobile apps, memudahkan untuk waiters mencatat pesanan pelanggan via smartphone secara langsung atau pun via tablet dalam penggunaan nya, dengan <a href="/dxresto">mobile waiters apps</a> semakin mempercepat untuk mencatat pemesanan pelanggan.</p>
 <p>
 Fitur : master database user , meja, group categori menu makanan minuman, menu saji makanan minuman, penjualan kasir dengan metode full touchscreen bergambar menu makanan dan minuman , print out percetakan bill dan struk kasir , rangkuman laporan laporan detil seperti pendapatan omset income profit per peridoe, per hari per minggu atau per bulan.
 </p>
