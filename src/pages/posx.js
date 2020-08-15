@@ -27,13 +27,13 @@ const Posx = ({ data, location }) => {
 <p>
 Dukungan technology web app all in one aplkasi toko kasir online untuk penjualan kasir plus website dan gratis domain name nama toko mu.com semakin mewah dalam build dan develope full online apps untuk usaha toko shop bisnis.
 </p>
-</div>
 <img class="img-fluid" alt="aplikasi toko online" src="/img/aplikasi toko mesin kasir online-posx.jpg"/>
 <p>Semakin fleksibel pos-x web app untuk digunakan via online clouds instalasi maupun via offline untuk kebutuhan single standalone mesin kasir memberikan kemudahan dalam penerapan system sesuai dengan kebutuhan usaha dan toko.</p>
 <img class="img-fluid" alt="aplikasi toko online" src="/img/aplikasi toko mesin kasir online app-posx.jpg"/>
 <p>Fitur yang lengkap memudahkan dalam kebutuhan untuk bertransaksi dengan cepat hingga pembukuan secara detail memudahkan dalam usaha dan bisnis mu.</p>
 <p>Dukungan fitur terbaik : Master databased user account, customer , member card , supplier , product based support barcode dan touchscreen , transaksi pembelian , pencatatan alur kas in out, penjualan kasir dengan touchscreen bergambar produk maupun via barcode system , laporan inventori stok management, laporan pendapatan income profit detail dan lain nya.
-<div class="col-12 col-md-12 p-3 p-md-5">
+</div>
+    <div class="col-12 col-md-12 p-3 p-md-5">
 <a class="button" href="https://mesinkasir.github.io/e-catalog/POS-X%20web%20apps.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=v9colB0cQHg" target="blank">Mobile</a> <a class="button" href="https://www.youtube.com/watch?v=TGjTbgIe3LI&t=8s" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
 <br/><br/><Link class="float-left" to="/multipos">&larr; Multipos</Link> <Link class="float-right" to="/larapos">Larapos &rarr;</Link>
 </div>
