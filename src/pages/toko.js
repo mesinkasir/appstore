@@ -56,7 +56,7 @@ const Toko = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/posx">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">Larapos Apps</a></strong></h3>
@@ -67,7 +67,7 @@ const Toko = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/larapos">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">Codepos</a></strong></h3>
@@ -78,7 +78,7 @@ const Toko = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/codepos">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">Dexopos</a></strong></h3>
@@ -89,7 +89,7 @@ const Toko = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/dexopos">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi toko kasir">DX-Retail</a></strong></h3>
@@ -100,7 +100,7 @@ const Toko = ({ data, location }) => {
   System : Online Web App
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/dxretail">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi toko kasir laravel pos">Laravel POS</a></strong></h3>
@@ -111,7 +111,7 @@ const Toko = ({ data, location }) => {
   System : Online Web Apps.
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/laravelpos">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi toko software toko online">Z-POS Web Apps</a></strong></h3>
@@ -122,7 +122,7 @@ const Toko = ({ data, location }) => {
   System : Online Web App
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/zpos">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/applikasi" title="aplikasi kasir software kasir">V-POS Apps</a></strong></h3>
@@ -133,7 +133,7 @@ const Toko = ({ data, location }) => {
   System : Online Web Based
 </small>
 </p>
-<Link class="button btn-block" to="/tokoonline">More info</Link>
+<Link class="button btn-block" to="/vpos">More info</Link>
 </div>
 
 <div class="col-12 col-md-4 p-3 p-md-3">
