@@ -45,7 +45,7 @@ const Restoran = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/restoboost">More info</Link>
+<Link class="button btn-block" to="/restox">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Dexopos Resto</a></strong></h3>
