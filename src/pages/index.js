@@ -37,9 +37,9 @@ const Index = ({ data, location }) => {
 </div>
 </div>
 <div class="row text-center">
-<div class="col-12 col-md-12 p-3 p-md-3">
-<p>Dukungan dan support</p>
-  <img alt="Asus" class="img-fluid" width="100%" src="/img/support mesin kasir online apps website modern.png"/>
+<div class="col-12 col-md-12 p-3 p-md-3 text-center">
+<p>Dukungan Technology Digunakan</p>
+  <img alt="Asus" class="img-fluid" src="/img/support mesin kasir online apps website modern.png"/>
   </div>  </div>
 <div class="col-12 col-md-12 p-3 p-md-3">
   <p>We Hapy Client</p>
