@@ -11,8 +11,8 @@ const Posx = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Applikasi toko kasir online POS-X Web Appps" />
       <Bio />
-      <h1><strong><a title="Applikasi TOko" href="/boost">POS-X Web Apps</a></strong></h1>
-<p>Solusi terbaik untuk kebutuhan aplikasi kasir toko online dengan pos-x web app , simple mudah dan sangat lengkap dengan berbagai fitur yang tersedia pada pos-x web apps , memudahkan dalam pembukuan dan point of sale transaksi kasir.</p>
+      <h1><strong><a title="Applikasi TOko" href="/posx">POS-X Web Apps</a></strong></h1>
+<p>Solusi terbaik untuk kebutuhan <a title="Applikasi TOko" href="/posx">aplikasi kasir toko online</a> dengan pos-x web app , simple mudah dan sangat lengkap dengan berbagai fitur yang tersedia pada pos-x web apps , memudahkan dalam pembukuan dan point of sale transaksi kasir.</p>
 <div class="row text-center">
 <div class="col-12 col-md-12 p-3 p-md-3">
 <img class="img-fluid" alt="aplikasi toko online" src="/img/aplikasi toko online web app--posx.jpg"/>
@@ -22,7 +22,7 @@ const Posx = ({ data, location }) => {
 </div>
 <div class="col-12 col-md-12 p-3 p-md-3">
 <img class="img-fluid" alt="aplikasi toko online" src="/img/mesin kasir online aplikasi toko-posx.jpg"/> 
-<h3>Modern POS-X Apps</h3>
+<h3><a title="Applikasi TOko" href="/posx">Modern POS-X Apps</a></h3>
 <p>Technology modern dengan menggunakan litespeed webserver semakin cepat dan stabil digunakan dalam online system, serta enskripsi dengan sertfikasi SSL lets encrypt / cloudflare semakin menjaga keamanan app dalam online mode modern.</p>
 <p>
 Dukungan technology web app all in one aplkasi toko kasir online untuk penjualan kasir plus website dan gratis domain name nama toko mu.com semakin mewah dalam build dan develope full online apps untuk usaha toko shop bisnis.
