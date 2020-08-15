@@ -43,7 +43,7 @@ const Restoonline = ({ data, location }) => {
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
 <a class="button" href="https://mesinkasir.github.io/e-catalog/Integrated%20Resto%20POS.pdf" target="blank">Download</a> <a class="button" href="https://youtu.be/v832gwkGbDk" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/restopos">&larr; Unipos Resto</Link> <Link class="float-right" to="/restoboost">Boosterpos Resto &rarr;</Link>
+<br/><br/><Link class="float-left" to="/restopos">&larr; Unipos Resto</Link> <Link class="float-right" to="/restox">Resto-X Apps &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
   <p><strong>Mobile technology</strong></p>
