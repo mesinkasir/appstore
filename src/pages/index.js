@@ -22,12 +22,14 @@ const Index = ({ data, location }) => {
  </div>
  <div class="col-12 col-md-1"></div>
      <div class="col-12 col-md-6 p-3 p-md-3">
+    <div class="shadow rounded p-3">
 <h3><a title="aplikasi" href="/">App Store</a></h3>
 <img class="img-fluid" alt="aplikasi kasir toko" src="/img/aplikasi.jpg"/>
 <p>Offline desktop mode dalam kebutuhan stabilitas operasional dan free selamanya pada device hardware yang sama , atau via online mode dengan biaya per tahun yang sangat murah,semua tersedia untuk mu.</p>
 <Link class="button float-right" to="/applikasi">App Info >></Link>
-</div>
+</div></div>
 <div class="col-12 col-md-6 p-3 p-md-3">
+        <div class="shadow rounded p-3">
   <h3><a title="mesin kasir point of sale" href="/">Point Of Sale</a></h3>
 <img class="img-fluid" alt="mesin kasir" src="/img/mesinkasir.png"/>
 <p>Paket point of sale set lengkap mesin kasir terbaru modern siap digunakan dalam menunjang berbagai usaha dan bisnis free instalasi setting siap pakai menjadi sempurna,semua lengkap disini.</p>
@@ -42,7 +44,7 @@ const Index = ({ data, location }) => {
   <a href="https://www.android.com" target="blank"><img alt="android iphone windows" class="img-fluid" width="120" src="/img/android.jpg"/></a>
   <img alt="hewllet packard" class="img-fluid" width="80" src="/img/HP-logo.png"/>
   <img alt="Asus" class="img-fluid" width="120" src="/img/Asus-Logo.png"/>
-  </div>
+  </div>  </div>
 <div class="col-12 col-md-8 p-3 p-md-3">
   <p>We Hapy Client</p>
 <img alt="Pelanggan" class="img-fluid" src="/img/Client.jpg"/>
