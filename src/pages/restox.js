@@ -21,7 +21,7 @@ Solusi terbaik dalam kebutuhan online clouds web app untuk kebutuhan usaha resto
 <div class="col-12 col-md-4 p-0 p-md-0">
 <img class="img-fluid" alt="aplikasi kasir restoran online" src="/img/resto-x/aplikasi restoran online app web based.png"/>
 </div>
-<div class="col-12 col-md-8 p-5 p-md-3">
+<div class="col-12 col-md-8 p-5 p-md-3 text-left">
 <h3><a title="APlikasi Mobile Restoran Apps" href="/restox">MOBILE RESTO APPS</a></h3>
 <p>
 Dengan installasi via clouds online memudahkan dalam resto-x web apps ini diakses via berbagai perangkat hardware mulai dari smartphone handphone android iphone hingga mesin kasir windows dalam operasional koneksi dengan web apps ini. dengan installasi via clouds maka tidak perlu lagi melakukan installasi pada perangkat anda yang menambah beban pada device yang digunakan, cukup akses via web apps secara langsung dan lakukan login kini anda sudah siap dalam menggunakan resto-x web apps ini,web app modern memberikan kebebasan akan hal akses tanpa batas dengan staf karyawan untuk melakukan pekerjaan dengan 
@@ -32,8 +32,9 @@ Fitur : master database user , supplier, membercard , meja , group categori menu
 </p>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
-<a class="button" href="https://mesinkasir.github.io/e-catalog/unipos-%20next%20level%20resto%20cafe%20system.pdf" target="blank">Download</a> <a class="button" href="https://youtu.be/9z6i5hifCOk" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/restoonline">&larr; Online Resto</Link> <Link class="float-right" to="/restoonline">Dexopos Resto &rarr;</Link>
+<a class="button" href="https://mesinkasir.github.io/e-catalog/RESTO-X.pdf" target="blank">Download</a> 
+    <a class="button" href="https://www.youtube.com/playlist?list=PLQDm6k9_HvYN5uzqK0AkwELTt3HkCQ8il" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
+<br/><br/><Link class="float-left" to="/restoonline">&larr; Online Resto</Link> <Link class="float-right" to="/dxresto">Dexopos Resto &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
   <p><strong>Mobile technology</strong></p>
