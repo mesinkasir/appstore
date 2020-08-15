@@ -42,7 +42,6 @@ const Index = ({ data, location }) => {
   <img alt="Asus" class="img-fluid" src="/img/support mesin kasir online apps website modern.png"/>
   </div>  </div>
 <div class="col-12 col-md-12 p-3 p-md-3">
-  <p>We Hapy Client</p>
 <img alt="Pelanggan" class="img-fluid" src="/img/Client.jpg"/>
 </div>
 </div>
