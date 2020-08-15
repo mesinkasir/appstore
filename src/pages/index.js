@@ -18,7 +18,7 @@ const Index = ({ data, location }) => {
 </div>
     <div class="col-12 col-md-7 p-3 p-md-5">
       <h3>Digital Revolutions</h3>
-<p>Era kebebasan technology dengan beragam aplikasi untuk digunakan menunjang usaha, sebagai pengganti <a title="mesin kasir" href="/">mesin kasir</a> yang lebih murah dan sempurna, variant <a href="/" title="aplikasi kasir">aplikasi kasir</a>,<a href="/" title="aplikasi toko">aplikasi toko</a>,<a title="aplikasi restoran" href="/">aplikasi restoran</a> hingga invoice dan inventori online tersedia dalam kebutuhan menunjang usaha mu.</p>
+<p>Era kebebasan technology dengan beragam aplikasi untuk digunakan menunjang usaha, sebagai pengganti <a title="mesin kasir" href="/pos">mesin kasir</a> yang lebih murah dan sempurna, variant <a href="/applikasi" title="aplikasi kasir">aplikasi kasir</a>,<a href="/toko" title="aplikasi toko">aplikasi toko</a>,<a title="aplikasi restoran" href="/restoran">aplikasi restoran</a> hingga invoice dan inventori online tersedia dalam kebutuhan menunjang usaha mu.</p>
  </div>
  <div class="col-12 col-md-1"></div>
      <div class="col-12 col-md-6 p-3 p-md-3">
