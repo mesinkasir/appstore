@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Aplikasi Online`,
+    title: `Axcora web app online technology`,
     author: `aplikasi online`,
-    description: `Aplikasi kasir,aplikasi toko,aplikasi restoran,aplikasi invoice online all in one lengkap untuk bisnis dan usaha mu.`,
+    description: `Mesin kasir online,Aplikasi kasir,aplikasi toko,aplikasi restoran,aplikasi invoice,pembuatan website APK modern.`,
     siteUrl: `https://www.axcora.com/`,
     social: {
       twitter: `hockeycorp`,
