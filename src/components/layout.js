@@ -58,9 +58,9 @@ const Layout = ({ location, title, children }) => {
   <li class="nav-item">
     <Link class="nav-link" to="/pos">POS</Link>
   </li>
-  <li class="nav-item">
+  <!--<li class="nav-item">
     <Link class="nav-link" to="/blog">Blog</Link>
-  </li>
+  </li>-->
   <li class="nav-item">
   <Link class="nav-link" to="/contact">Contact</Link>
   </li>
