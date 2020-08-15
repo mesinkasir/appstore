@@ -31,7 +31,7 @@ Tanpa perlu installasi dan dapat digunakan dengan berbagai user memudahkan untuk
 </p>
 </div>
     <div class="col-12 col-md-12 p-3 p-md-5">
-      <img class="img-fluid" alt="aplikasi kasir restoran online" src="/img/aplikasi restoran online mobile pos web apps (3).jpg"/>
+      <img class="img-fluid" alt="aplikasi kasir restoran online" src="/img/aplikasi restoran online mobile pos web apps (3).png"/>
 <p>
 Fitur : master database user account untuk fitur login menggunakan web app beserta dengan password ,group menu categories untuk mengelompokan menu berdasarkan kategori nya, Menu makanan dan minuman include dengan gambar foto menu , POS penjualan kasir fitur dengan penjualan menggunakan gambar foto menu makanan dan minuman, serta report list penjualan kasir via rangkuman laporan details.
 </p>
