@@ -49,7 +49,7 @@ const Restoboost = ({ data, location }) => {
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
 <a class="button" href="https://mesinkasir.github.io/e-catalog/Boosterpos%20Resto%20App.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=5OPqg3jOo2k" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/restoonline">&larr; Online Resto</Link> <Link class="float-right" to="/samba">Resto Samba &rarr;</Link>
+<br/><br/><Link class="float-left" to="/restoonline">&larr; Online Resto</Link> <Link class="float-right" to="/funresto">Resto Samba &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
   <p><strong>Mobile technology</strong></p>
