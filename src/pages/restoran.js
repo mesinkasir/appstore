@@ -56,7 +56,7 @@ const Restoran = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/restoboost">More info</Link>
+<Link class="button btn-block" to="/dxresto">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Booster resto</a></strong></h3>
@@ -78,7 +78,7 @@ const Restoran = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/restoboost">More info</Link>
+<Link class="button btn-block" to="/funresto">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Z-Resto</a></strong></h3>
@@ -89,7 +89,7 @@ const Restoran = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/restoboost">More info</Link>
+<Link class="button btn-block" to="/zresto">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
 <h3><strong><a href="/restoran" title="aplikasi restoran android iphone online">Sip Resto</a></strong></h3>
@@ -100,7 +100,7 @@ const Restoran = ({ data, location }) => {
   System : Online Web Apps
 </small>
 </p>
-<Link class="button btn-block" to="/restoboost">More info</Link>
+<Link class="button btn-block" to="/sip">More info</Link>
 </div>
 <div class="col-12 col-md-4 p-3 p-md-3">
   <h3><strong><a href="/restoran" title="aplikasi restoran online">Resto Samba</a></strong></h3>
