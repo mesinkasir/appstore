@@ -23,7 +23,7 @@ const Larapos = ({ data, location }) => {
 Dukungan penuuh full online dengan hadirnya web server menggunakan litespeed technology semakin cepat untuk aktivitas online, dan dalam keamanan aplikasi dan databased mendapat backup dari sertifikasi SSL security by lets encrypt maupun cloudflare semakin aman dan nyaman dalam menggunakan larapos web apps ini.
 </p>
 <img class="img-fluid" alt="aplikasi toko online" src="/img/mesin kasir online point of sale online web apps.jpg"/> 
-<h3>Mobile POS on the Go !!</h3>
+<h3><strong><a title="Applikasi TOko" href="/larapos">Mobile POS on the Go !!</a></strong></h3>
 <p>Dengan installasi langsung secara online memudahkan dalam akses via smartphone android iphone hingga mesin kasir windows dimana saja dan kapan saja secara real time online semakin mobile dalam aktivitas pembukuan dan membantu pekerjaan via smartphone masing masing karyawan secara langsung, saat nya revolusi digital dimulai untuk usaha mu.
 <img class="img-fluid" alt="aplikasi toko online" src="/img/pembuatan website modern dengan laravel.jpg"/>
 <p>System simple dan lengkap dalam menunjang berbagai kebutuhan untuk pembukuan dan mempercepat penjualan pada kasir, pada larapos ini memudahkan dalam pencatatan dan perbedaan antara harga retail eceran dan grosir plus hadirnya full pos penjualan system khusus untuk penjualan eceran dengan ketetapan harga retail eceran maupun grosir wholesale dengan harga gorsir langsung.
@@ -32,7 +32,7 @@ Dukungan penuuh full online dengan hadirnya web server menggunakan litespeed tec
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
 <a class="button" href="https://mesinkasir.github.io/e-catalog/larapos.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=Q65TPCAeQlU&t=17s" target="blank">Mobile</a> <a class="button" href="https://www.youtube.com/watch?v=hlGd7yk4nko" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/simplepos">&larr; Simple pos</Link> <Link class="float-right" to="/ipos">IPOS &rarr;</Link>
+<br/><br/><Link class="float-left" to="/posx">&larr; POS-X</Link> <Link class="float-right" to="/codepos">Codepos &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
   <p><strong>Mobile technology</strong></p>
