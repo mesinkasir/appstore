@@ -47,7 +47,7 @@ const Axcorapos = ({ data, location }) => {
 <p>Laporan keuangan tersedia untuk kemudahan monitoring omset profit dan pembukuan usaha.</p>
 <div class="col-12 col-md-12 p-3 p-md-5">
 <a class="button" href="https://mesinkasir.github.io/e-catalog/AXCORAPOS.pdf" target="blank">Download</a> <a class="button" href="https://youtu.be/OmC_2bswSmA" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/multipos">&larr; Multi POS</Link> <Link class="float-right" to="/hockeypos">Hockey POS &rarr;</Link>
+<br/><br/><Link class="float-left" to="/vpos">&larr; V-POS</Link> <Link class="float-right" to="/hockeypos">Hockey POS &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
   <p><strong>Mobile technology</strong></p>
