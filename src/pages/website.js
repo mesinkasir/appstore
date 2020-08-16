@@ -18,9 +18,6 @@ const Website = ({ data, location }) => {
 <img class="img-fluid" width="100%" alt="pembuatan website" src="/img/web modern.png"/>
 <p>Solusi kebutuhan untuk pembangunan project website modern dengan technology terbaru maupun menggunakan aplikasi pembuatan website memudahkan dalam kebutuhan untuk membuat dan membangun website dengan mudah, selalu update dengan technology terbaru dalam develope website dengan menggunakan framweork semakin memudahkan dalam kebutuhan membangun website yang sempurna dan elegan, plus sentuhan desain agar website maupun blog menjadi lebih mewah dan elegan. 
 </p>
-<p>
-
-</p>
 <img class="img-fluid" alt="aplikasi toko online" src="/img/aplikasi%20kasir%20toko%20penjualan%20online%20terbaru%20keren%20(1).png"/> 
 <p>
 Dexopos apps era mesin kasir online modern dalam kebutuhan untuk transaksi kasir cepat hingga rangkuman pembukuan detail, dan desain dengan full touchscreen semakin memudahkan dalam kebutuhan technology online untuk kemajuan bisnis dan usaha, landing page website menyempurnakan akan kebutuhan memperluas market pada dunia online dengan memiliki website sendiri memudahkan dalam penyampaian produk dan jasa maupun company profile dan usaha mu, semakin dipercaya pelanggan dengan website mandiri mu ini. all in one modern website dan aplikasi kasir toko menjadi satu menyempurnakan dexopos shop untuk digunakan.
