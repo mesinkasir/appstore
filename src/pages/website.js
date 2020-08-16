@@ -40,7 +40,7 @@ Berbagai kebutuhan framework dan aplikasi untuk membangun website tersedia dalam
     </p>
     </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
-<a class="button" href="https://mesinkasir.github.io/e-catalog/dexopos%20shop.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=1PWUy4woxSM&t=11s" target="blank">Mobile</a> <a class="button" href="https://www.youtube.com/playlist?list=PLQDm6k9_HvYMuYq7kJSmSGzF9SHvh_UWt" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
+<a class="button" href="https://mesinkasir.github.io/e-catalog/Creative%20Of%20ART%20Web%20design%20Digital%20ART.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=vZeEtSmiAww" target="blank">Shop</a> <a class="button" href="https://www.youtube.com/watch?v=guHJc2wEdJ4" target="blank">Resto</a> <a class="button" href="https://www.youtube.com/watch?v=PCcw4e-L_ZM" target="blank">Company</a> <a class="button" href="https://www.youtube.com/watch?v=b6TJAHoehSQ" target="blank">Art</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
 <br/><br/><Link class="float-left" to="/apk">&larr; Develope APK</Link> <Link class="float-right" to="/onlineshop">Online Shop &rarr;</Link>
 </div>
 </div>
