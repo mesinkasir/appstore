@@ -70,4 +70,3 @@ export const pageQuery = graphql`
     }
   }
 `
-© 2020 GitHub, Inc.
