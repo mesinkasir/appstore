@@ -22,7 +22,7 @@ const Laravelpos = ({ data, location }) => {
 <p>
 Dengan menggunakan aplikasi ini membantu dalam kebutuhan untuk mencatat transaksi sekaligus hadirnya website modern memudahkan dalam memberikan informasi mengenai produk kita kepada pelanggan, desain yang elegan clean desain dengan pembuatan website menggunakan laravel sangat powerfull plus dengan hadirnya aplikasi toko kasir yang fokus untuk handle transaksi kasir semakin mempercepat dan memudahkan penjualan kasir dalam penerapan nya.
 </p>
-<img class="img-fluid" alt="aplikasi toko kasir online" src="/img/laravelspopc/mesinkasironline.jpg"/>
+<img class="img-fluid" alt="aplikasi toko kasir online" src="/img/laravelspospc/mesinkasironline.jpg"/>
 <h3><strong><a title="Applikasi Toko" href="/laravepos">Mobile POS on the Go !!</a></strong></h3>
 <p>Dukungan mobile pos on the go semakin memudahkan dan irit biaya anggaran pengadaan <a title="Applikasi Toko" href="/laravepos">mesin kasir online</a> mu, cukup gunakan hanpdhone android iphone untuk karyawan dalam membantu input data menyimpan data bahkan melakukan tranasksi pembelian inventori stok management dalam kebutuhan nya, special memudahkan admin dalam cek pembukuan dan laporan detail dimana saja dan kapan saja secara real time online via smartphone nya.</p>
 <p>Laravelpos simple fitur : master databased product dengan fitur gambar foto produk pencatatan stok awal dan harga jual , inventori stok management untuk melakukan transaksi in out secara cepat, penjualan kasir point of sale dengan gambar foto produk include dengan kemampuan nya digunakan untuk mencetak struk kasir penjualan,dan rangkuman list laporan penjualan memudahkan dalam kontrol dan cek penjualan pada toko.
