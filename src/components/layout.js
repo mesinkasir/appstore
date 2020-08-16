@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 import "../components/kasir.css"
-import "../components/googlef8b9e33e9752d574.html"
 import { rhythm } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
