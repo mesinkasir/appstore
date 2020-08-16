@@ -36,7 +36,7 @@ Pada APK android native by default ini tersedia fitur 4 kategori dan 4 penjelasa
   )
 }
 
-export default Website
+export default Apk
 export const pageQuery = graphql`
   query {
     site {
