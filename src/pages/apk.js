@@ -11,7 +11,7 @@ const Apk = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Pembuatan APK android APP ios googleplaystore" />
       <Bio />
-      <h1><strong><a title="Develope android APK native" href="/website">Develope APK Native</a></strong></h1>
+      <h1><strong><a title="Develope android APK native" href="/apk">Develope APK Native</a></strong></h1>
 <p>Pembuatan APK android APP ios untuk upload ke googleplaystore.</p>
 <div class="row text-center">
 <div class="col-12 col-md-12 p-3 p-md-3">
@@ -19,9 +19,9 @@ const Apk = ({ data, location }) => {
 <p>
 pembuatan native APK untuk kemudahan dalam develope APK android atau APP ios memberikan kemudahan untuk semakin dekat dengan pelanggan, native APK develope menggunakan flutter dan dart menjadikan kesempurnaan untuk menggunakan aplikasi android mu.
 </p>
-<h3><strong><a title="Applikasi toko kasir online web apps" href="/website">REAL APK</a></strong></h3>
+<h3><strong><a title="Applikasi toko kasir online web apps" href="/apk">REAL APK</a></strong></h3>
 <p>
-Pembangunan pada project native APK full untuk APK android yang memudahkan dalam kebutuhan upload ke google play store dengan ID dan account usaha mu, semakin memudahkan dalam kebutuhan untuk memberikan keterangan pada APK sesuai dengan kebutuhan mu, mulai judul, deskripsi bisa kamu tulis sesuai deskripsi usaha , dengan kemudahan ini memberikan kebebasan dalam build APK .
+Pembangunan pada project native APK full untuk <a title="Applikasi toko kasir online web apps" href="/apk">APK android</a> yang memudahkan dalam kebutuhan upload ke google play store dengan ID dan account usaha mu, semakin memudahkan dalam kebutuhan untuk memberikan keterangan pada APK sesuai dengan kebutuhan mu, mulai judul, deskripsi bisa kamu tulis sesuai deskripsi usaha , dengan kemudahan ini memberikan kebebasan dalam build APK .
     </p>
     <p>
 Pada APK android native by default ini tersedia fitur 4 kategori dan 4 penjelasan produk maupun jasa memudahkan pelanggan untuk donwload APK via playstore dan membaca informasi mengenai produk dan jasa pada usaha mu, semakin dekat dengan pelanggan dengan native APK. unutk kebutuhan penambahan fitur penjelasan produk tersedia dengan harga tejangkau, dan tersedia fitur integrasi APK + website + online shop dan aplikasi kasir point of sale dalam satu based.
