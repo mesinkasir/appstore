@@ -3,6 +3,7 @@ module.exports = {
     title: `Axcora web app online technology`,
     author: `aplikasi online`,
     description: `Mesin kasir online,Aplikasi kasir,aplikasi toko,aplikasi restoran,aplikasi invoice,pembuatan website APK modern.`,
+    name: 'google-site-verification', content: 'sg74inu3b2a9_jQhpJVCjJlom9daF79YSGoTzqsxZEc',
     siteUrl: `https://www.axcora.com/`,
     social: {
       twitter: `hockeycorp`,
