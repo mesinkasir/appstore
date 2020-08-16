@@ -9,7 +9,7 @@ const Onlineshop = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Pembuatan APK android APP ios googleplaystore" />
+      <SEO title="Pembuatan Toko Online SHop + APK + POS lengkap" />
       <Bio />
       <h1><strong><a title="Pembuatan toko online shop modern" href="/onlineshop">Online Shop</a></strong></h1>
 <p>Pembuatan toko online shop modern.</p>
