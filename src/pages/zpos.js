@@ -34,7 +34,7 @@ Full dekstop apps memberikan kemudahan pada kasir untuk bertransaksi via mesin k
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
 <a class="button" href="https://mesinkasir.github.io/e-catalog/Z-pos.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=DWFDeQuU2E4" target="blank">Mobile Apps</a> <a class="button" href="https://www.youtube.com/watch?v=kh80c_NSEEM&t=65s" target="blank">kasir APps</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/dexopos">&larr; dexopos</Link> <Link class="float-right" to="/laravelpos">Laravelpos &rarr;</Link>
+<br/><br/><Link class="float-left" to="/laravelpos">&larr; laravelpos</Link> <Link class="float-right" to="/vpos">Vpos &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
   <p><strong>Mobile technology</strong></p>
