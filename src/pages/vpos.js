@@ -9,34 +9,33 @@ const Vpos = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-<SEO title="Mesin kasir online Z-Pos minimarket toko" />
-<Bio />
-<h1><strong><a title="Mesin kasir online" href="/zpos">Zpos Web apps</a></strong></h1>
-<h3>Mesin kasir online Z-POS apps untuk minimarket dan toko retail.</h3>
+      <SEO title="laravel Point of sale web apps" />
+      <Bio />
+      <h1><strong><a title="Applikasi TOko" href="/larapos">LARAPOS</a></strong></h1>
+<p>Aplikasi toko online dengan kebutuhan untuk penjualan kasir retail eceran maupun grosir dengan harga yang berbeda beda memudahkan dalam melakukan penjualan kasir baik eceran maupun gorsir.</p>
 <div class="row text-center">
 <div class="col-12 col-md-12 p-3 p-md-3">
-<img class="img-fluid" alt="aplikasi minimarket toko z-pos online" src="/img/zpos/point of sale web app solutions.jpg"/>
-<p>Z-POS dekstop version apps dan mobile version semakin memudahkan dalam kebutuhan untuk bertransaksi kasir dengan cepat plus rangkuman detail laporan , hingga webiste usaha dan toko all in one menjadi satu pada Z-POS Web apps untuk digunakan.</p>
-<img class="img-fluid" alt="aplikasi minimarket toko z-pos online" src="/img/zpos/new point of sale web app.jpg"/>
-<p>
-Semakin mudah dengan Z-POS web app dengan berbagai kebutuhan untuk bertransaksi hingga kebutuhan untuk cek rangkuman pembukuan detail, dengan website landing page memberikan informasi kepada pelanggan mengenai produk produk dan promo kepada pelanggan semakin informatif untuk dekat dengan pelanggan via modern website, celan desain dan elegan semakin menyempurnakan kebutuhan website modern.
+<img class="img-fluid" alt="aplikasi toko online" src="/img/aplikasi toko mesin kasir online laravel point of sale cashier apps (2).jpg"/>
+<p>Develope menggunakan <a href="https://laravel.com" target="blank" class="text-secondary">laravel php artisan</a> semakin powerfull dan stabil untuk digunakan membangung aplikasi kasir toko dan website dalam satu apps untuk kebutuhan bisnis modern mu, laravel adalah salah satu framework populer dunia dan banyak digunakan para developer dalam kebutuhan untuk membangun website modern hingga kebutuhan untuk modern aplikasi yang membantu dalam penjualan kasir maupun pencatatan pembukuan dengan cepat , gunakan laravel untuk masa depan usaha yang indah.
 </p>
-<img class="img-fluid" alt="aplikasi minimarket toko z-pos online" src="/img/zpos/zpos point of sale web app.jpg"/>
-<h3><strong><a title="Applikasi Minimarket TOko" href="/zpos">Full dekstop Apps</a></strong></h3>
+<img class="img-fluid" alt="aplikasi toko online" src="/img/aplikasi toko mesin kasir online laravel point of sale cashier apps (3).jpg"/> 
 <p>
-Full dekstop apps memberikan kemudahan pada kasir untuk bertransaksi via mesin kasir dalam menunjang kebutuhan transaksi untuk melayani pesanan pelanggan secara langsung , penggunaan barcode system siap digunakan dalam menunjang transaksi dengan cepat plus, integrasi dengan koneksi ke printer kasir memudahkan untuk mencetak struk kasir penjualan dengan cepat via z-pos dekstop apps dalam kebutuhan bertransaksi kasir dengan cepat.
+Dukungan penuuh full online dengan hadirnya web server menggunakan litespeed technology semakin cepat untuk aktivitas online, dan dalam keamanan aplikasi dan databased mendapat backup dari sertifikasi SSL security by lets encrypt maupun cloudflare semakin aman dan nyaman dalam menggunakan larapos web apps ini.
 </p>
-<img class="img-fluid" alt="aplikasi minimarket toko z-pos online" src="/img/zpos/point of sale web app.jpg"/>
-<h3><strong><a title="Applikasi TOko" href="/zpos">Mobile POS on the Go !!</a></strong></h3>
-<p>Dukungan mobile pos on the go semakin memudahkan dan irit biaya anggaran pengadaan mesin kasir mu, cukup gunakan hanpdhone android iphone untuk karyawan dalam membantu input data menyimpan data bahkan melakukan tranasksi pembelian inventori stok management dalam kebutuhan nya, special memudahkan admin dalam cek pembukuan dan laporan detail dimana saja dan kapan saja secara real time online via smartphone nya.</p>
-<p>Z-pos apps fitur : master databased user account , supplier , grup kategori produk untuk pengelompokan produk , satuan unit produk , product databased support barcode,  harga jual , inventori stok management ,transaksi penjualan kasir point of sale, rangkuman laporan pendapatan detail dan fitur lain nya .</p>
+<img class="img-fluid" alt="aplikasi toko online" src="/img/mesin kasir online point of sale online web apps.jpg"/> 
+<h3><strong><a title="Applikasi TOko" href="/larapos">Mobile POS on the Go !!</a></strong></h3>
+<p>Dengan installasi langsung secara online memudahkan dalam akses via smartphone android iphone hingga mesin kasir windows dimana saja dan kapan saja secara real time online semakin mobile dalam aktivitas pembukuan dan membantu pekerjaan via smartphone masing masing karyawan secara langsung, saat nya revolusi digital dimulai untuk usaha mu.</p>
+<img class="img-fluid" alt="aplikasi toko online" src="/img/pembuatan website modern dengan laravel.jpg"/>
+<p>System simple dan lengkap dalam menunjang berbagai kebutuhan untuk pembukuan dan mempercepat penjualan pada kasir, pada larapos ini memudahkan dalam pencatatan dan perbedaan antara harga retail eceran dan grosir plus hadirnya full pos penjualan system khusus untuk penjualan eceran dengan ketetapan harga retail eceran maupun grosir wholesale dengan harga gorsir langsung.</p>
+<img class="img-fluid" alt="aplikasi toko online" src="/img/aplikasi toko mesin kasir online laravel point of sale cashier apps (4).jpg"/>
+<p>Fitur mulai dari master databased , user account , satuan produk , kategori grouping produk , produk jual dengan penetapan harga eceran dan grosir, Penjualan kasir untuk retail eceran dan penjualan kasir grosir , laporan profit detail , backup restore databased dan berbagai fitur lain nya, semakin menarik dengan hadirnya website modern dengan clean design plus landing page memberikan informasi kepada pelanggan mengenai usaha dan detail produk maupun jasa yang disediakan pada usaha toko dan bisnis mu, online mode memudahkan larapos untuk digunakan dan diakses dimana saja secara real time online.</p>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
-<a class="button" href="https://mesinkasir.github.io/e-catalog/Z-pos.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=DWFDeQuU2E4" target="blank">Mobile Apps</a> <a class="button" href="https://www.youtube.com/watch?v=kh80c_NSEEM" target="blank">kasir APps</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/laravelpos">&larr; laravelpos</Link> <Link class="float-right" to="/vpos">Vpos &rarr;</Link>
+<a class="button" href="https://mesinkasir.github.io/e-catalog/larapos.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=Q65TPCAeQlU&t=17s" target="blank">Mobile</a> <a class="button" href="https://www.youtube.com/watch?v=hlGd7yk4nko" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
+<br/><br/><Link class="float-left" to="/posx">&larr; POS-X</Link> <Link class="float-right" to="/codepos">Codepos &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
-  <h3><strong>Mobile technology</strong></h3>
+  <p><strong>Mobile technology</strong></p>
 <p>All in one dengan online mode support berbagai os <a href="https://www.android.com/" target="blank" title="android">android</a> <a href="https://www.apple.com/id/iphone/" target="blank" title="android">iphone</a> windows maupun kebutuhan untuk offline mode tanpa biaya bulanan untuk kebutuhan mesin kasir mu.</p>
 <Link class="button" to="/applikasi">Aplikasi</Link> <Link class="button button-outline" to="/pos">Hardware</Link>
 </div>
@@ -70,4 +69,3 @@ export const pageQuery = graphql`
     }
   }
 `
-© 2020 GitHub, Inc.
