@@ -15,7 +15,7 @@ const Onlineshop = ({ data, location }) => {
 <p>Pembuatan toko online shop modern.</p>
 <div class="row text-center">
 <div class="col-12 col-md-12 p-3 p-md-3">
-<img class="img-fluid shadow rounded" width="100%" alt="pembuatan toko online shop murah" src="/img/Screenshot_2020-07-08 Smartphone Archives - SHOP STORE POINT OF SALE + ONLINE SHOP WEBSITE.png"/>
+<img class="img-fluid shadow rounded" width="100%" alt="pembuatan toko online shop murah" src="/img/tokoonlineshopmodern.png"/>
 <p>
 Pembuatan website toko online shop modern dengan technology up to date untuk kebutuhan toko online modern, dengan dukungan aplikasi pembuat toko online shop software maupun develope menggunakan framework popular modern semakin mewah dan elegan pada toko online shop website mu. desain menarik dan kemudahan dalam penentuan pembayaran maupun penentuan pengiriman menjadikan kuasa penuh untuk transaski pada toko online shop mu.
 </p>
