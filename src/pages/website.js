@@ -16,7 +16,7 @@ const Website = ({ data, location }) => {
 <div class="row text-center">
 <div class="col-12 col-md-12 p-3 p-md-3">
 <img class="img-fluid" width="100%" alt="pembuatan website" src="/img/web modern.png"/>
-<p>Solusi kebutuhan untuk pembangunan project website modern dengan technology terbaru maupun menggunakan aplikasi pembuatan website memudahkan dalam kebutuhan untuk membuat dan membangun website dengan mudah, selalu update dengan technology terbaru dalam develope website dengan menggunakan framweork semakin memudahkan dalam kebutuhan membangun website yang sempurna dan elegan, plus sentuhan desain agar website maupun blog menjadi lebih mewah dan elegan. 
+<p>Solusi kebutuhan untuk pembangunan project website modern dengan technology terbaru maupun menggunakan aplikasi pembuatan website memudahkan dalam kebutuhan untuk membuat dan membangun website dengan mudah, selalu update dengan technology terbaru dalam develope website dengan menggunakan framework semakin memudahkan dalam kebutuhan membangun website yang sempurna dan elegan, plus sentuhan desain agar website maupun blog menjadi lebih mewah dan elegan. 
 </p>
 <img class="img-fluid" alt="pembuatan website terbaru murah" width="100%" src="/img/website modern.jpg"/> 
 <p>
@@ -41,7 +41,7 @@ Berbagai kebutuhan framework dan aplikasi untuk membangun website tersedia dalam
     </div>
 <div class="col-12 col-md-12 p-3 p-md-5">
 <a class="button" href="https://mesinkasir.github.io/e-catalog/dexopos%20shop.pdf" target="blank">Download</a> <a class="button" href="https://www.youtube.com/watch?v=1PWUy4woxSM&t=11s" target="blank">Mobile</a> <a class="button" href="https://www.youtube.com/playlist?list=PLQDm6k9_HvYMuYq7kJSmSGzF9SHvh_UWt" target="blank">Video</a> <a class="button" href="https://wa.me/6285646104747" target="blank" rel="nofollow">Chat Now</a> <a class="button" href="tel:+6285331361404" target="blank" rel="nofollow">Call Us</a>.
-<br/><br/><Link class="float-left" to="/codepos">&larr; Develope APK</Link> <Link class="float-right" to="/dxretail">Online Shop &rarr;</Link>
+<br/><br/><Link class="float-left" to="/apk">&larr; Develope APK</Link> <Link class="float-right" to="/onlineshop">Online Shop &rarr;</Link>
 </div>
 </div>
     </Layout>
