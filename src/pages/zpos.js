@@ -9,18 +9,17 @@ const Zpos = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Mesin kasir online Z-Pos minimarket toko" />
-      <Bio />
-      <h1><strong><a title="Mesin kasir online" href="/zpos">Zpos Web apps</a></strong></h1>
+<SEO title="Mesin kasir online Z-Pos minimarket toko" />
+<Bio />
+<h1><strong><a title="Mesin kasir online" href="/zpos">Zpos Web apps</a></strong></h1>
 <h3>Mesin kasir online Z-POS apps untuk minimarket dan toko retail.</h3>
 <div class="row text-center">
 <div class="col-12 col-md-12 p-3 p-md-3">
 <img class="img-fluid" alt="aplikasi minimarket toko z-pos online" src="/img/zpos/point of sale web app solutions.jpg"/>
-<p>Z-POS dekstop version apps dan mobile version semakin memudahkan dalam kebutuhan untuk bertransaksi kasir dengan cepat plus rangkuman detail laporan , hingga webiste usaha dan toko all in one menjadi satu pada Z-POS Web apps untuk digunakan.
-</p>
+<p>Z-POS dekstop version apps dan mobile version semakin memudahkan dalam kebutuhan untuk bertransaksi kasir dengan cepat plus rangkuman detail laporan , hingga webiste usaha dan toko all in one menjadi satu pada Z-POS Web apps untuk digunakan.</p>
 <img class="img-fluid" alt="aplikasi minimarket toko z-pos online" src="/img/zpos/new point of sale web app.jpg"/>
 <p>
-Semakin mudah dengan Z-POS web app dengan berbagai kebutuhan untuk bertransaksi hingga kebutuhan untuk cek rangkuman pembukuan detail, dengan website landing page memberikan informasi kepada pelanggan mengenai produk produk dan promo kepada pelanggan semakin informatif untuk dekat dengan pelanggan via modern website, celan desain dan elegan semakin menyempurnakan kebutuhan website modern. 
+Semakin mudah dengan Z-POS web app dengan berbagai kebutuhan untuk bertransaksi hingga kebutuhan untuk cek rangkuman pembukuan detail, dengan website landing page memberikan informasi kepada pelanggan mengenai produk produk dan promo kepada pelanggan semakin informatif untuk dekat dengan pelanggan via modern website, celan desain dan elegan semakin menyempurnakan kebutuhan website modern.
 </p>
 <img class="img-fluid" alt="aplikasi minimarket toko z-pos online" src="/img/zpos/zpos point of sale web app.jpg"/>
 <h3><strong><a title="Applikasi Minimarket TOko" href="/zpos">Full dekstop Apps</a></strong></h3>
@@ -37,7 +36,7 @@ Full dekstop apps memberikan kemudahan pada kasir untuk bertransaksi via mesin k
 <br/><br/><Link class="float-left" to="/laravelpos">&larr; laravelpos</Link> <Link class="float-right" to="/vpos">Vpos &rarr;</Link>
 </div>
 <div class="col-12 col-md-12 p-3 p-md-5 text-center bg-light">
-  <p><strong>Mobile technology</strong></p>
+  <h3><strong>Mobile technology</strong></h3>
 <p>All in one dengan online mode support berbagai os <a href="https://www.android.com/" target="blank" title="android">android</a> <a href="https://www.apple.com/id/iphone/" target="blank" title="android">iphone</a> windows maupun kebutuhan untuk offline mode tanpa biaya bulanan untuk kebutuhan mesin kasir mu.</p>
 <Link class="button" to="/applikasi">Aplikasi</Link> <Link class="button button-outline" to="/pos">Hardware</Link>
 </div>
